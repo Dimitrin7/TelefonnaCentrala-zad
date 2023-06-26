@@ -1,0 +1,2 @@
+C:\Users\HP\source\repos\TelefonnaCentrala\TelefonnaCentrala\obj\Debug\TelefonnaCentrala.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\TelefonnaCentrala\TelefonnaCentrala\obj\Debug\TelefonnaCentrala.csproj.CoreCompileInputs.cache
